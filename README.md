@@ -2,7 +2,7 @@
 
 ## Overview
 This project predicts employee churn (`LeaveOrNot`) using a dataset of employee attributes.  
-A *fully connected Artificial Neural Network (ANN) is used, with hyperparameter optimization via Optuna.  
+A fully connected Artificial Neural Network (ANN) is used, with hyperparameter optimization via Optuna.  
 The workflow includes data preprocessing, feature scaling, model training, evaluation using AUC and Gini coefficient, and deployment-ready predictions.  
 The trained model can predict churn for new employees using the same preprocessing steps.
 
